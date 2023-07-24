@@ -69,7 +69,8 @@
 }
 /* EX-7 */
 .ex-7-img {
-    transition: 2s;
+    
+    transition: 5s;
 }
 .ex-7-img:hover {
     filter: invert(1);
